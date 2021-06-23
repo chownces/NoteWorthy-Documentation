@@ -10,6 +10,8 @@ theme:
 
 nav:
   - Home: 'index.md'
+  - Project Overview:
+    - Poster and Video: 'project-overview/postervideo.md'
   - Getting Started:
     - Frontend Setup: 'getting-started/frontendsetup.md'
     - Backend Setup: 'getting-started/backendsetup.md'
