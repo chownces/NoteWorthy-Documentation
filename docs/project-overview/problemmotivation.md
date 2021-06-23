@@ -10,6 +10,8 @@ We have identified a core set of features that students seek in their note-takin
 on the go, easy collaboration, and time management features, NoteWorthy combines the best features of note taking apps out there into a
 compelling package for students, by students.
 
+*Proposed level of achievement:* ***Apollo***
+
 ## Proposed Core Features
 1. Login into the app and retrieve their own notes
 1. Collaborative editing of notes online, and link sharing

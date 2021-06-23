@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+    - navigation.tabs
     - navigation.expand
 
 nav:
@@ -13,9 +14,11 @@ nav:
   - Project Overview:
     - Problem Motivation & Core Features: 'project-overview/problemmotivation.md'
     - Poster and Video: 'project-overview/postervideo.md'
-  - Getting Started:
-    - Frontend Setup: 'getting-started/frontendsetup.md'
-    - Backend Setup: 'getting-started/backendsetup.md'
+    - Project Timeline: 'project-overview/timeline.md'
+  - Developer Guide:
+    - Getting Started:
+      - Frontend Setup: 'getting-started/frontendsetup.md'
+      - Backend Setup: 'getting-started/backendsetup.md'
 
 plugins:
   - search
