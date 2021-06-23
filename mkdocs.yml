@@ -15,6 +15,7 @@ nav:
     - Problem Motivation & Core Features: 'project-overview/problemmotivation.md'
     - Poster and Video: 'project-overview/postervideo.md'
     - Project Timeline: 'project-overview/timeline.md'
+    - Project Log: 'project-overview/projectlog.md'
   - Developer Guide:
     - Getting Started:
       - Frontend Setup: 'getting-started/frontendsetup.md'
