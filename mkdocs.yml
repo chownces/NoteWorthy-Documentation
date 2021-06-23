@@ -1,0 +1,23 @@
+site_name: NoteWorthy Documentation
+site_url: https://example.com/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    # - navigation.tabs
+    - navigation.top
+
+plugins:
+ - git-revision-date
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/chownces/NoteWorthy
+      name: GitHub
+
+repo_url: https://github.com/chownces/NoteWorthy
+repo_name: NoteWorthy
+
+copyright: Copyright &copy; 2021 NoteWorthy
