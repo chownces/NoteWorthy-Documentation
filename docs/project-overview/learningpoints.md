@@ -1,6 +1,7 @@
-# Project Overview
+# Learning Points
+Just like any project, we encountered many technical problems and bugs along the way. This page serves to highlight some of the
+more notable ones, and how we overcame them.
 
-## Problems Encountered
 #### Categories implementation
 When implementing boardview for Noteworthy, categories were added as has-a attribute of the Note document in the backend. However 
 this made it difficult to correctly reorder notes within their categories inside boardview. This problem was fixed by creating a 

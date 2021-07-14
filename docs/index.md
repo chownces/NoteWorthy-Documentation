@@ -4,7 +4,8 @@
 into a compelling package for students to create, manage and collaborate on their notes.
 
 This project is done as part of the Orbital Summer Programme 2021 (CP2106 - Independent Software
-Development Project) at the National University of Singapore (NUS).
+Development Project) at the National University of Singapore (NUS), by En Rong [@chownces](https://github.com/chownces)
+and Aiken [@aikenwx](https://github.com/aikenwx).
 
 The stable branch is deployed at [https://noteworthy-prod.vercel.app/](https://noteworthy-prod.vercel.app/).
 
@@ -20,7 +21,7 @@ Our repositories can be found at the following links:
 - Backend: [https://github.com/chownces/NoteWorthy-API](https://github.com/chownces/NoteWorthy-API)
 
 ### Tech Stack
-This project uses the following tech stack/ libraries:
+This project uses a **MERN** stack with GraphQL:
 
 - Frontend: ReactJS, Semantic-UI
 - Backend: Express, Apollo, GraphQL, MongoDB

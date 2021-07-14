@@ -15,8 +15,11 @@ nav:
     - Problem Motivation & Core Features: 'project-overview/problemmotivation.md'
     - Poster and Video: 'project-overview/postervideo.md'
     - Project Timeline: 'project-overview/timeline.md'
+    - Implementation Details: 
+      - Technologies Used: 'project-overview/implementationdetails/techstack.md'
+      - Why these technologies?:  'project-overview/implementationdetails/whytechstack.md'
+    - Learning Points: 'project-overview/learningpoints.md'
     - Project Log: 'project-overview/projectlog.md'
-    - Problems Encountered: 'project-overview/problemsencountered.md'
   - Developer Guide:
     - Getting Started:
       - Frontend Setup: 'getting-started/frontendsetup.md'
