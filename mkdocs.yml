@@ -16,8 +16,10 @@ nav:
     - Poster and Video: 'project-overview/postervideo.md'
     - Project Timeline: 'project-overview/timeline.md'
     - Implementation Details: 
-      - Technologies Used: 'project-overview/implementationdetails/techstack.md'
-      - Why these technologies?:  'project-overview/implementationdetails/whytechstack.md'
+      - Tech Stack: 'project-overview/implementationdetails/techstack.md'
+      - Why this tech stack?:  'project-overview/implementationdetails/whytechstack.md'
+      - Deployment: 'project-overview/implementationdetails/deployment.md'
+      - CI/CD & Workflow: 'project-overview/implementationdetails/workflow.md'
     - Learning Points: 'project-overview/learningpoints.md'
     - Project Log: 'project-overview/projectlog.md'
   - Developer Guide:
