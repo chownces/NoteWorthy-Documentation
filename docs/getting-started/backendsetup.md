@@ -20,3 +20,6 @@ actual name of your database).
 - `MONGODB_USERNAME`: The username of your MongoDB account (*optional* for local development).
 - `MONGODB_PASSWORD`: The password to your MongoDB account (*optional* for local development).
 - `CORS_ORIGIN`: The URL of your frontend. Use `localhost:3000` for local development.
+
+#### Testing
+- Please format your code with `yarn format` and run the test suite via `yarn test` before pushing and issuing a PR.
