@@ -23,6 +23,12 @@ We chose *GraphQL* over the traditional *RESTful API* for this project for <u>2 
     - This also means less work when implementing the API as we do not need multiple endpoints with specific shapes, while allowing the
 frontend to only query the data it needs!
 
+Over and above, *GraphQL* has a strong type system that is written down as a *GraphQL schema*. This schema defines the API, and serves as
+a contract between the client and backend, which tells the client how to access the data in the backend.
+
+- This means that once the schema is defined, the frontend and backend teams can work independently and quicker since both are aware of the
+structure of data that is sent over the API!
+
 ##### MongoDB
 As we are working with dynamically structured data, using a document NoSQL database like *MongoDB* is a no-brainer. Also, it is widely
 documented and well-integrated with *NodeJS* via libraries such as *Mongoose*. Deployment is also made easy with SaaS such as *MongoDB Atlas*.
