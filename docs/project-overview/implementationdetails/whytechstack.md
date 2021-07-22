@@ -7,6 +7,8 @@ We settled with *ReactJS* as the library of choice in implementing our frontend 
 web applications today. This allows us to learn skills relevant to the industry, and build a level of proficiency and
 familiarity in this library and its ecosystem, before moving on to bigger projects in the future.
 
+<hr/>
+
 #### Backend
 ##### Express
 For the backend, we chose to use *Express* as it is a commonly used backend framework for small to medium projects. Besides,

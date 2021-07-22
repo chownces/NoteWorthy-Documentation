@@ -1,5 +1,5 @@
 site_name: NoteWorthy Documentation
-site_url: https://chownces.github.io/NoteWorthy-Documentation/
+site_url: https://chownces.github.io/noteworthy-documentation/
 
 theme:
   name: material
@@ -21,7 +21,9 @@ nav:
       - Deployment: 'project-overview/implementationdetails/deployment.md'
       - CI/CD & Workflow: 'project-overview/implementationdetails/workflow.md'
       - Testing: 'project-overview/implementationdetails/testing.md'
-    - Learning Points: 'project-overview/learningpoints.md'
+    - Learning Summary:
+      - Skills learnt: 'project-overview/learningpoints/skillslearnt.md'
+      - Technical Challenges Overcame: 'project-overview/learningpoints/challenges.md'
     - Project Log: 'project-overview/projectlog.md'
   - Developer Guide:
     - Getting Started:

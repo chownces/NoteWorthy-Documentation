@@ -6,6 +6,8 @@ We used Git and GitHub as our code version control system. For collaboration, we
 our `master` branch. This enables us to stay up to date with what our partner is working on, and also have an extra pair of eyes
 on code quality.
 
+<hr/>
+
 #### Continuous Integration and Continuous Delivery (CI/CD)
 We also decided to focus fairly heavily on learning the CI/CD side of DevOps in this project, as we found this knowledge to be
 invaluable to future software projects that we will be working on. The following is a short summary of the CI/CD workflow we
@@ -36,6 +38,8 @@ have employed:
     - Heroku has a similar CD workflow as Vercel, and automatically deploys our production branch with our production configuration whenever
       there are changes
     - A post-build script is also ran when there are new database migration files
+
+<hr/>
 
 #### Database Migrations
 We also spent some time working on database migrations as having working knowledge in this aspect will be useful in future software projects
