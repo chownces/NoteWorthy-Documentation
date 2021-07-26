@@ -14,6 +14,8 @@ The instructions for frontend setup can be found on this page.
 
 - `REACT_APP_BACKEND_URL`: Specify the URL of your backend. By default, the local development backend
 can be found at `http://localhost:4300/graphql/`.
+- `REACT_APP_ROOT_PATH`: Specify the root URL of your frontend. By default, the local development frontend
+can be found at `http://localhost:3000/`
 
 #### Testing
 - Please format your code with `yarn format` and run the test suite via `yarn test` before pushing and issuing a PR.
