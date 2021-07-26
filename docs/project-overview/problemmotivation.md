@@ -15,7 +15,8 @@ compelling package for students, by students.
 ## Proposed Core Features
 1. Login into the app and retrieve their own notes
 1. View notes in a simple 'Table' view or a Kanban-style 'Board' view
-1. Drag notes around to organise them
+1. Drag notes around in the above-mentioned database views to organise them
+1. Note pages are composed of draggable and editable blocks
+1. Upload pictures and screenshots to notes
 1. Share notes with others via online links
-1. Upload pictures and screenshots
-1. Download and convert into printable pdf
+1. Download and convert notes into printable pdf

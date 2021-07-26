@@ -7,7 +7,8 @@ This project is done as part of the Orbital Summer Programme 2021 (CP2106 - Inde
 Development Project) at the National University of Singapore (NUS), by En Rong [@chownces](https://github.com/chownces)
 and Aiken [@aikenwx](https://github.com/aikenwx).
 
-The stable branch is deployed at [https://noteworthy-prod.vercel.app/](https://noteworthy-prod.vercel.app/).
+The stable branch is deployed at [https://noteworthy-prod.vercel.app/](https://noteworthy-prod.vercel.app/). Do note that the app might take some time to start
+up as the backend is hosted on Heroku's free tier.
 
 ## Documentation
 

@@ -81,9 +81,11 @@
 | 24/07/2021 | -           | -                                                                                                                           | 1             | Backend update to match frontend requirements                                                                                                                                                                                                              |
 | 25/07/2021 | 6           | Restyle, add draggable function and new CRUD operations to table view                                                       | 4             | Added link sharing feature. Slight UI improvements                                                                                                                                                                                                         |
 | 25/07/2021 | 2           | Updated frontend and backend functions to go to last visited databases on login.                                            | -             | -                                                                                                                                                                                                                                                          |
-| 26/07/2021 | 4           | Debug styling bugs in table view and side bar, cleaned up code                                                              | -             | -                                                                                                                                                                                                                                                          |
-| 26/07/2021 | 4           | Update documentation, poster and video                                                                                      | -             | -                                                                                                                                                                                                                                                          |
+| 26/07/2021 | 4  | Debug styling bugs in table view and side bar, cleaned up code | 6 | Review Side navbar PR and fix miscellaneous bugs in the PR. Added migration file for that PR and deployed it. |
+| 26/07/2021 | 4  | Update documentation, poster and video                         | 2 | Debugged race condition in backend. Wrote transactions for some resolvers.                                    |
+| 26/07/2021 | \- | \-                                                             | 2 | Update documentation                                                                                          |
+
 
 | Total Hours | Aiken | En Rong |
 | ----------- | ----- | ------- |
-|             |  200  |   164   |
+|             |  200  |   178   |
