@@ -8,6 +8,13 @@ We used a **MERN** stack with GraphQL for the implementation of the web app:
 - Frontend: ReactJS, Semantic-UI
 - Backend: Express, Apollo, GraphQL, MongoDB
 
+### Diagram
+<img src="https://drive.google.com/uc?id=1NuWXo-rz1pG0arP-D2EiINBKkgLpvNcd"
+  alt="Poster"
+  title="Poster"
+  style="width: 100%; border: 1px solid grey">
+</img>
+
 ### Repositories
 Our repositories can be found at the following links:
 

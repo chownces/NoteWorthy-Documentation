@@ -55,3 +55,16 @@ add a loading screen if a note with a tempoary ID is clicked, and load the actua
 <hr/>
 
 ### Nestable noteblocks
+To allow indentation and nesting in our noteblocks, we had to restructure noteblocks in the backend into a recursively defined document. 
+This was a problem when trying to fetch noteblocks as frontend GraphQL query schemas cannot be recursively defined.
+To overcome this, the noteblocks tree-like structure had to be flattened and then passed to the frontend as an array. The frontend then
+reconverts the array back into a tree.
+
+However another problem arose when passing down props to CRUD handlers due to stale closure of React Hooks. Since we update the 
+backend by copying the entire array of noteblocks, CRUD handlers like `addBlockHandler` and `indentBlockHandler` need to be passed props 
+containing states of other blocks when updating a single block. These states will get outdated the moment another CRUD handler is triggered. 
+To address this problem, we tried using the `onBlur` event handlers to trigger a rerender each time a noteblock loses focus. However, this 
+implementation caused visual bugs due to the cursor jumping issue in `react-contenteditable`.
+
+Another problem was that the `react-beautiful-dnd` library used to create draggable blocks no longer works with the new implementation of 
+noteblocks as the `Draggable` divs cannot be nested. Due to time constraints, we had to scrap nestable noteblocks for Milestone 3.

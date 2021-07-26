@@ -14,9 +14,8 @@ compelling package for students, by students.
 
 ## Proposed Core Features
 1. Login into the app and retrieve their own notes
-1. Collaborative editing of notes online, and link sharing
+1. View notes in a simple 'Table' view or a Kanban-style 'Board' view
+1. Drag notes around to organise them
+1. Share notes with others via online links
 1. Upload pictures and screenshots
-1. Feature that allows user to draw and insert the drawing as a picture within the app
-1. Download and convert into printable pdf, and also export as HTML file
-1. Insert code blocks and other useful markdown text
-1. LaTex support
+1. Download and convert into printable pdf

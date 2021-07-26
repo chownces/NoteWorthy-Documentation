@@ -9,13 +9,21 @@
 * User authentication
 * Implement draggable 'blocks' feature
 * Basic CRUD operations for note 'blocks' and note pages
-* 'Board' and 'Table' views for each database
+* Conceptualisation of 'Board' and 'Table' views for each database
 * Deployment of project
 * CI/CD and Workflow Setup
 
 #### Milestone 3 (July 2021)
 * Uploading of pictures and screenshots
-* Collaborative Editing of notes
 * Link sharing
-* Download as PDF or HTML file
-* LaTex Support
+* Download as PDF
+* Final implementation of 'Board' and 'Table' views
+* Back-end tests
+* Finding and resolving bugs
+
+#### Future Milestone
+* Ability to add code blocks and LaTex syntax
+* Creating and editing drawings
+* Indentable blocks
+* Collabarative editing
+* Use WebSockets to improve lag
